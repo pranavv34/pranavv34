@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/pranavv34/pranavv34/assets/118679164/5dfc49bf-ea54-451f-8005-8426fe64067d)
+![MasterHead](https://github.com/pranavv34/pranavv34/assets/118679164/226e2d29-2ff6-4721-bc11-54b049e900b8)
 
 <h1 align="center">Hello, I'm Pranav Vuddagiri !</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
