@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/pranavv34/pranavv34/assets/118679164/226e2d29-2ff6-4721-bc11-54b049e900b8)
 
 <h1 align="center">Hello, I'm Pranav Vuddagiri !</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer from Hyderabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavv34&label=Profile%20views&color=0e75b6&style=flat" alt="pranavv34" /> </p>
 
