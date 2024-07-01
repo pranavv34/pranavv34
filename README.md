@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/pranav2036/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pranav2036" /></a> </p>
 
-<p align="left"> <a href="https://www.pranavportfolio.live" target="blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="pranav2036" /></a> </p>
+<!--<p align="left"> <a href="https://www.pranavportfolio.live" target="blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="pranav2036" /></a> </p>-->
 
 <p align="left"> <a href="mailto:pranavuddagiri@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="pranavuddagiri@gmail.com" /></a> </p>
 <br/>
