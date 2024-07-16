@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavv34&label=Profile%20views&color=0e75b6&style=flat" alt="pranavv34" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/pranav2036/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pranav2036" /></a> </p>
+<p align="left"> <a href="https://www.pranavportfolio.live" target="blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="pranav2036" /></a> </p>
 
-<!--<p align="left"> <a href="https://www.pranavportfolio.live" target="blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="pranav2036" /></a> </p>-->
+<p align="left"> <a href="https://www.linkedin.com/in/pranav2036/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pranav2036" /></a> </p>
 
 <p align="left"> <a href="mailto:pranavuddagiri@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="pranavuddagiri@gmail.com" /></a> </p>
 <br/>
@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/pranavv34/miscbit" target="blank">**CBIT Management Information System**</a>
 
-- 🌱 I’m currently learning **ReactJS, GSAP**
+- 🌱 I’m currently learning **Jest**
 
 - 📫 How to reach me **pranavuddagiri@gmail.com**
 
