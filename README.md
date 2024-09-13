@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/pranavv34/miscbit" target="blank">**CBIT Management Information System**</a>
 
-- 🌱 I’m currently learning **Jest**
+- 🌱 I’m currently learning **Redux**
 
 - 📫 How to reach me **pranavuddagiri@gmail.com**
 
