@@ -13,7 +13,7 @@
 <br/>
 <h3 align="left">Highlights:</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/pranavv34/miscbit" target="blank">**CBIT Management Information System**</a>
+- 🔭 I’m currently working on <a href="https://github.com/pranavv34/IntelliQuery" target="blank">**IntelliQuery**</a>
 
 - 🌱 I’m currently learning **Redux**
 
