@@ -13,7 +13,7 @@
 <br/>
 <h3 align="left">Highlights:</h3>
 
-- 👨‍💻 Currently working as a Frontend Engineer Intern at Dhan AI
+- 👨‍💻 Currently working as a **Frontend Engineer Intern** at **Dhan AI**
 
 - 🔭 I’m currently working on <a href="https://github.com/pranavv34/IntelliQuery" target="blank">**IntelliQuery**</a>
 
