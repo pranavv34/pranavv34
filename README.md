@@ -2,8 +2,7 @@
   <img src="https://github.com/user-attachments/assets/b293b82b-1855-4a5a-b41c-958b8a2d96b7" alt="banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Pranav Vuddagiri 👋</h1>
-<h3 align="center">Frontend Developer · UI Enthusiast · IT Undergrad</h3>
+<h1 align="center">Hey, I'm Pranav Vuddagiri !</h1>
 
 <p align="center">
   <a href="https://www.pranavportfolio.live" target="_blank">
