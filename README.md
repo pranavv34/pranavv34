@@ -33,7 +33,7 @@ Still early in the journey, learning by doing and trying to get a little better 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,materialui,tailwind,jest,docker,jenkins,python,nodejs,figma,git,vercel" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,javascript,materialui,tailwind,jest,docker,jenkins,python,nodejs,figma,git,vercel" />
 </p>
 
 <br><br>
@@ -43,15 +43,44 @@ Still early in the journey, learning by doing and trying to get a little better 
 <table>
   <tr>
     <td width="100%">
-      <img src="https://streak-stats.demolab.com?user=pranavv34&theme=dark&hide_border=true" width="100%" />
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://streak-stats.demolab.com?user=pranavv34&theme=dark&hide_border=true"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://streak-stats.demolab.com?user=pranavv34&theme=default&hide_border=true"
+        />
+        <img
+          src="https://streak-stats.demolab.com?user=pranavv34&theme=default&hide_border=true"
+          width="100%"
+          alt="GitHub Streak Stats"
+        />
+      </picture>
     </td>
   </tr>
   <tr>
     <td width="100%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavv34&theme=github_dark" width="100%" />
+      <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavv34&theme=github_dark"
+        />
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavv34&theme=github"
+        />
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavv34&theme=github"
+          width="100%"
+          alt="GitHub Profile Summary"
+        />
+      </picture>
     </td>
   </tr>
 </table>
+
 
 </div>
 
