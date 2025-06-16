@@ -17,10 +17,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=440&lines=I+enjoy+building+useful+things.;Always+chasing+clean+UI.;Learning+and+growing+every+day."/>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranavv34&label=Profile%20Views&style=for-the-badge&color=3b82f6" alt="Profile views" />
 </p>
 
