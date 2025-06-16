@@ -20,6 +20,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=440&lines=I+enjoy+building+useful+things.;Always+chasing+clean+UI.;Learning+and+growing+every+day."/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranavv34&label=Profile%20Views&style=for-the-badge&color=3b82f6" alt="Profile views" />
+</p>
+
+
 ## About Me
 
 I like building things that are simple, clean, and useful. I also enjoy exploring UI and design on the side, paying attention to the details that make an experience feel complete.
@@ -40,9 +45,10 @@ Still early in the journey, learning by doing and trying to get a little better 
 
 <div align="center">
 
-<table>
+<!-- GitHub Stats Table -->
+<table width="100%" cellspacing="0" cellpadding="0" style="background: transparent; border-collapse: collapse;">
   <tr>
-    <td width="100%">
+    <td>
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -61,7 +67,7 @@ Still early in the journey, learning by doing and trying to get a little better 
     </td>
   </tr>
   <tr>
-    <td width="100%">
+    <td>
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -80,8 +86,6 @@ Still early in the journey, learning by doing and trying to get a little better 
     </td>
   </tr>
 </table>
-
-
 </div>
 
 
